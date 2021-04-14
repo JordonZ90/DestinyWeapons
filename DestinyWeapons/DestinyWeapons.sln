@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinyWeapons", "DestinyWeapons\DestinyWeapons.csproj", "{04B5960C-E68C-4FE3-8ABA-F04225796596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B5960C-E68C-4FE3-8ABA-F04225796596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B5960C-E68C-4FE3-8ABA-F04225796596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B5960C-E68C-4FE3-8ABA-F04225796596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B5960C-E68C-4FE3-8ABA-F04225796596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C79607B-8C83-40EC-BD85-427EA1066767}
+	EndGlobalSection
+EndGlobal
